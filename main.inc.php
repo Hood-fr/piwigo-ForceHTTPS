@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Force HTTPS
-Version: auto
+Version: 2.0.4
 Description: Gives the capacity to force https connections on https enabled servers.
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=697
 Author: Arnaud (bonhommedeneige)
